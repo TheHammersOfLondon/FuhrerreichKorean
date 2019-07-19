@@ -13,17 +13,17 @@ SCW_partisans_monarchy_2_desc:0 "에스트레마두라 지방의 사람들은 �
 SCW_partisans_popular_front_1:0 "발렌시아에서의 저항"
 SCW_partisans_popular_front_1_desc:0 "발렌시아 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_popular_front_2:0 "아르곤에서의 저항"
-SCW_partisans_popular_front_2_desc:0 "아르곤 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_popular_front_2:0 "아라곤에서의 저항"
+SCW_partisans_popular_front_2_desc:0 "아라곤 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
 SCW_partisans_republic_1:0 "라만차에서의 저항"
 SCW_partisans_republic_1_desc:0 "라만차 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_republic_2:0 "카스티유에서의 저항"
-SCW_partisans_republic_2_desc:0 "카스티유 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_republic_2:0 "카스티야에서의 저항"
+SCW_partisans_republic_2_desc:0 "카스티야 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_falangists_1:0 "레옹에서의 저항"
-SCW_partisans_falangists_1_desc:0 "레옹 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_falangists_1:0 "레온에서의 저항"
+SCW_partisans_falangists_1_desc:0 "레온 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
 #Tooltips
 SCW_uprising:0 "이 지역에서 이미 봉기가 일어났습니다"
@@ -32,10 +32,10 @@ SCW_SPM_partisan_jaen_tooltip:0 "파르티잔 사단이 장에서 봉기할것�
 SCW_SPM_partisan_extremadura_tooltip:0 "두개의 파르티잔 사단이 에스트레마두라에서 봉기할것입니다\n"
 SCW_SPA_partisan_valencia_tooltip:0 "파르티잔 사단이 발렌시아에서 봉기할것입니다\n"
 SCW_SPA_partisan_murica_tooltip:0 "파르티잔 사단이 무르시아에서 봉기할것입니다\n"
-SCW_SPA_partisan_aragon_tooltip:0 "두개의 파르티잔 사단이 아르곤에서 봉기할것입니다\n"
+SCW_SPA_partisan_aragon_tooltip:0 "두개의 파르티잔 사단이 아라곤에서 봉기할것입니다\n"
 SCW_SPR_partisan_la_mancha_tooltip:0 "두개의 파르티잔 사단이 라만차에서 봉기할것입니다/n"
-SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티유에서 봉기할것입니다"
-SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레옹에서 봉기할것입니다"
+SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티야에서 봉기할것입니다"
+SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레온에서 봉기할것입니다"
 
 #Ideas
 SCW_idea:0 "스페인 내전"
@@ -52,7 +52,7 @@ SCW_SPM_support_regained_desc:0 "영국은 내전에서 우리정부를 지원�
 
 #Events
 scw.1.t:0 "공화국의 붕괴"
-scw.1.d:0 "스페인 내전은 얼마 전까지 마드리드를 지배했던 스페인 공화국이 몰락하면서 우리에게 유리해졌습니다. 반군들이 탠지어로 이동하기 시작했지만, 우리와 매우 가까운 곳에서 우리는 반군들을 차단할수 있습니다. 그러나 우리는 탠지어로 망명하는 공화정부를 존속시키게 됩니다. 전쟁의 승자와의 관계는 영 좋지 못하겠지만 우리는 그 지역을 통제할수 있을 것입니다."
+scw.1.d:0 "스페인 내전은 얼마 전까지 마드리드를 지배했던 스페인 공화국이 몰락하면서 우리에게 유리해졌습니다. 반군들이 탕헤르로 이동하기 시작했지만, 우리와 매우 가까운 곳에서 우리는 반군들을 차단할수 있습니다. 그러나 우리는 탠지어로 망명하는 공화정부를 존속시키게 됩니다. 전쟁의 승자와의 관계는 영 좋지 못하겠지만 우리는 그 지역을 통제할수 있을 것입니다."
 
 scw.2.t:0 "내전의 끝"
 scw.2.d:0 "먼지가 가라앉자, 하나뿐인 공화국 정부만이 남았습니다. 우리는 무너진 국가와 국민, 산업과 함께 있고, 회복과정은 이제까지 겪은 것들중 가장 어려운 때가 될 것입니다. 하지만 이제야 스페인은 승리했다고 말할수 있습니다."
